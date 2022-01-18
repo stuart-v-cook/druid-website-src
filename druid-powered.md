@@ -311,6 +311,12 @@ At Hulu, we use Druid to power our analytics platform that enables us to interac
 
 [Ibotta](https://home.ibotta.com/) is a free cash back rewards and payments app. The company has partnered with more than 1,500 brands and retailers to pay consumers cash for their purchases. Ibotta has paid out over $600 million in cash rewards to more than 35 million users since its founding in 2012.
 
+## iMonitor
+
+[iMonitor](https://www.imonitor.ai) Creates insightful and actionable smart data from any source that increases efficiencies, reduces costs and ensures compliance regardless of industry or infrastructure.
+
+* [Introducing iMonitor The Intelligent Data Platform](https://imonitor.ai/2021/07/introducing-imonitor-the-intelligent-data-platform/)
+
 ## Imply
 
 Imply uses Druid to power public demos and to power our internal monitoring and metrics.
